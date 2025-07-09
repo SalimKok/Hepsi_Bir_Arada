@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425528144872",
+    "project_id": "hesapyonetim-6bc93",
+    "storage_bucket": "hesapyonetim-6bc93.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425528144872:android:70dddc196ef93e89212a5d",
+        "android_client_info": {
+          "package_name": "com.example.hesapyoneti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxJcPh1rUcBzd9gc1d0jQxytRgpTNmQcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425528144872:android:595b3c5c9de5555c212a5d",
+        "android_client_info": {
+          "package_name": "com.example.hesapyonetim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxJcPh1rUcBzd9gc1d0jQxytRgpTNmQcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
