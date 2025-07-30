@@ -141,7 +141,7 @@ GELEN DATA:
 {'entry': [{'id': '17841475908173996', 'time': 1752603469, 'changes': [{'value': {'from': {'id': '759152633728576', 'username': 'frknblici'}, 'media': {'id': '18062764118231558', 'media_product_type': 'FEED'}, 'id': '18075583507760743', 'text': 'Hello guys'}, 'field': 'comments'}]}], 'object': 'instagram'}
 
 GELEN DATA:
-{'entry': [{'id': '17841475908173996', 'time': 1752603707, 'changes': [{'value': {'from': {'id': '1024245376582274', 'username': 'nursenncift'}, 'media': {'id': '18062764118231558', 'media_product_type': 'FEED'}, 'id': '17860715538387368', 'text': 'Dayan gardaşım'}, 'field': 'comments'}]}], 'object': 'instagram'}
+{'entry': [{'id': 'aWdfZAG1faXRlbToxOklHTWVzc2FnZAUlEOjE3ODQxNDc1OTA4MTczOTk2OjM0MDI4MjM2Njg0MTcxMDMwMTI0NDI1OTk2NTM4MzQ0NjEwODQ1MzozMjMyODMwMDMwOTI0OTQ2OTgwODIzMzIxNDY1NDgwODA2NAZDZD', 'time': 1752603707, 'changes': [{'value': {'from': {'id': '1024245376582274', 'username': 'nursenncift'}, 'media': {'id': '18062764118231558', 'media_product_type': 'FEED'}, 'id': '17860715538387368', 'text': 'Dayan gardaşım'}, 'field': 'comments'}]}], 'object': 'instagram'}
 
 GELEN DATA:
 {'entry': [{'id': '17841475908173996', 'time': 1752602515, 'changes': [{'value': {'from': {'id': '759152633728576', 'username': 'frknblici'}, 'media': {'id': '18062764118231558', 'media_product_type': 'FEED'}, 'id': '18083769637802196', 'text': 'Merhaba'}, 'field': 'comments'}]}], 'object': 'instagram'}
